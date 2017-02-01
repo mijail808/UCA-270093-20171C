@@ -1,0 +1,5 @@
+Nombre: UbiUCA
+
+Esta aplicacion esta diseñada para los estudiantes de la uca y cualquier usuario que no conozca los sitios de la universidad, esta 
+tiene como proposito ayudar a los usuarios a llegar a un lugar de la universidad, basicamente la persona que quiera usarla, ingresa el 
+lugar de la uca donde quiere llegar y la aplicacion le da una descripcion de direccion y le traza una linea en el mapa, del camino a seguir.
